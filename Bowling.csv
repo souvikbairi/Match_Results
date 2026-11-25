@@ -1,0 +1,70 @@
+﻿Date,Team,Vs,Bowler,O,M,R,W,Econ,Dots,4s,6s,Wide,NB,Win,Potential
+7.2.26,India,USA,Arshdeep Singh,4,0,18,2,4.5,13,1,0,1,0,1,12
+7.2.26,India,USA,Mohammed Siraj,4,0,29,3,7.25,13,1,0,1,0,1,12
+7.2.26,India,USA,Varun Chakravarthy,4,0,24,1,6,10,0,0,0,0,1,10
+7.2.26,India,USA,Axar Patel,4,0,24,2,6,10,0,0,0,0,1,10
+7.2.26,India,USA,Hardik Pandya,4,0,34,0,8.5,8,1,0,1,0,1,7
+9.2.26,South Africa,Canada,Lungi Ngidi,4,0,31,4,7.75,14,0,0,0,0,1,
+9.2.26,South Africa,Canada,Marco Jansen,4,0,30,2,7.5,12,3,0,3,0,1,
+9.2.26,South Africa,Canada,Kagiso Rabada,4,0,40,1,10,9,2,2,2,2,1,
+9.2.26,South Africa,Canada,Corbin Bosch,4,0,27,1,6.75,8,1,0,1,0,1,
+9.2.26,South Africa,Canada,Keshav Maharaj,4,0,28,0,7,6,1,0,1,0,1,
+11.2.26,South Africa,Afganistan,Lungi Ngidi,4,0,26,3,6.5,13,1,0,1,0,1,
+11.2.26,South Africa,Afganistan,Marco Jansen,4,0,42,1,10.5,7,1,0,1,0,1,
+11.2.26,South Africa,Afganistan,Kagiso Rabada,3.4,0,38,1,10.36,8,2,2,2,2,1,
+11.2.26,South Africa,Afganistan,George Linde,3,0,39,1,13,5,0,0,0,0,1,
+11.2.26,South Africa,Afganistan,Keshav Maharaj,4,0,27,1,6.75,7,3,0,3,0,1,
+11.2.26,South Africa,Afganistan,Aiden Markram,1,0,14,0,14,0,0,0,0,0,1,
+12.2.26,India,Namibia,Hardik Pandya,4,0,21,2,5.25,12,0,0,0,0,1,12
+12.2.26,India,Namibia,Arshdeep Singh,3,0,36,1,12,4,2,0,2,0,1,2
+12.2.26,India,Namibia,Shivam Dube,2.2,0,11,1,4.71,7,1,2,1,2,1,4
+12.2.26,India,Namibia,Jasprit Bumrah,4,0,20,1,5,13,1,1,1,1,1,11
+12.2.26,India,Namibia,Varun Chakravarthy,2,0,7,3,3.5,6,0,0,0,0,1,6
+12.2.26,India,Namibia,Axar Patel,3,1,20,2,6.66,11,0,0,0,0,1,11
+14.2.26,South Africa,New Zealand,Lungi Ngidi,4,0,34,1,8.5,8,0,0,0,0,1,
+14.2.26,South Africa,New Zealand,Kagiso Rabada,4,0,27,0,6.75,10,0,0,0,0,1,
+14.2.26,South Africa,New Zealand,Marco Jansen,4,0,40,4,10,9,0,0,0,0,1,
+14.2.26,South Africa,New Zealand,Keshav Maharaj,3,0,24,1,8,6,0,0,0,0,1,
+14.2.26,South Africa,New Zealand,Corbin Bosch,4,0,34,1,8.5,8,0,0,0,0,1,
+14.2.26,South Africa,New Zealand,Aiden Markram,1,0,15,0,15,1,0,0,0,0,1,
+15.02.26,India,Pakistan,Hardik Pandya,3,1,16,2,5.33,13,1,0,0,0,1,13
+15.02.26,India,Pakistan,Jasprit Bumrah,2,0,17,2,8.5,5,1,0,0,0,1,5
+15.02.26,India,Pakistan,Axar Patel,4,0,29,2,7.25,13,0,0,0,0,1,13
+15.02.26,India,Pakistan,Varun Chakravarthy,3,0,17,2,5.66,8,0,0,0,0,1,8
+15.02.26,India,Pakistan,Kuldeep Yadav,3,0,14,1,4.66,8,1,0,0,0,1,8
+15.02.26,India,Pakistan,Tilak Varma,2,0,11,1,5.5,5,0,0,0,0,1,5
+15.02.26,India,Pakistan,Rinku Singh,1,0,9,0,9,3,0,0,1,0,1,2
+18.02.26,South Africa,UAE,Kagiso Rabada,4,0,30,0,7.5,11,2,1,0,0,1,
+18.02.26,South Africa,UAE,Kwena Maphaka,4,0,30,0,7.5,9,1,2,4,0,1,
+18.02.26,South Africa,UAE,Anrich Nortje,4,0,28,2,7,7,2,0,0,0,1,
+18.02.26,South Africa,UAE,George Linde,4,0,17,1,4.25,10,1,0,0,0,1,
+18.02.26,South Africa,UAE,Corbin Bosch,4,0,12,3,3,16,0,0,0,0,1,
+18.02.26,India,Netherland,Arshdeep Singh,3,0,22,0,7.33,8,2,0,0,0,1,8
+18.02.26,India,Netherland,Jasprit Bumrah,3,0,17,1,5.66,11,2,0,2,0,1,9
+18.02.26,India,Netherland,Washington Sundar,4,0,36,0,9,7,2,1,1,0,1,6
+18.02.26,India,Netherland,V. Chakaravarthy,3,0,14,3,4.66,12,0,0,2,0,1,10
+18.02.26,India,Netherland,Hardik Pandya,3,0,40,1,13.33,5,5,1,2,0,1,3
+18.02.26,India,Netherland,Shivam Dube,3,0,35,2,11.66,6,2,1,0,0,1,6
+18.02.26,India,Netherland,Abhishek Sharma,1,0,10,0,10,2,1,0,0,0,1,2
+22.02.26,South Africa,India,Aiden Markram,1,0,5,1,5,4,0,0,1,0,1,
+22.02.26,South Africa,India,Marco Jansen,3.5,0,22,4,5.73,12,0,0,0,0,1,
+22.02.26,South Africa,India,Kagiso Rabada,4,0,32,0,8,13,0,0,3,0,1,
+22.02.26,South Africa,India,Lungi Ngidi,4,0,15,0,3.75,11,1,0,0,0,1,
+22.02.26,South Africa,India,Keshav Maharaj,3,0,24,3,8,5,1,0,0,1,1,
+22.02.26,South Africa,India,Corbin Bosch,3,0,12,2,4,10,2,0,2,1,1,
+22.02.26,India,South Africa,Arshdeep Singh,4,0,28,2,7,11,1,0,0,0,0,11
+22.02.26,India,South Africa,Jasprit Bumrah,4,0,15,3,3.75,12,0,0,0,0,0,12
+22.02.26,India,South Africa,Varun Chakravarthy,4,0,47,1,11.75,8,3,0,0,0,0,8
+22.02.26,India,South Africa,Washington Sundar,2,0,17,0,8.5,1,0,0,1,0,0,0
+22.02.26,India,South Africa,Hardik Pandya,4,0,45,0,11.25,6,0,1,1,0,0,5
+22.02.26,India,South Africa,Shivam Dube,2,0,32,1,16,3,2,1,2,0,0,1
+26.02.26,South Africa,West Indies,Kagiso Rabada,4,0,22,2,5.5,11,1,0,0,0,1,
+26.02.26,South Africa,West Indies,Lungi Ngidi,4,0,30,3,7.5,12,0,0,0,0,1,
+26.02.26,South Africa,West Indies,Corbin Bosch,4,0,31,2,7.75,11,0,0,0,0,1,
+26.02.26,India,Zimbabwe,BOWLING,O,M,R,W,ECON,0S,WD,NB,1,0,1,#VALUE!
+26.02.26,India,Zimbabwe,Arshdeep Singh,4,0,24,3,6,12,1,0,0,0,1,12
+26.02.26,India,Zimbabwe,Hardik Pandya,3,0,21,0,7,8,0,0,3,1,1,4
+26.02.26,India,Zimbabwe,Jasprit Bumrah,3,0,21,0,7,8,0,0,2,0,1,6
+26.02.26,India,Zimbabwe,Varun Chakravarthy,4,0,35,1,8.75,9,0,0,0,0,1,9
+26.02.26,India,Zimbabwe,Axar Patel,4,0,35,1,8.75,7,2,0,0,0,1,7
+26.02.26,India,Zimbabwe,Shivam Dube,2,0,46,1,23,2,4,2,1,0,1,1
